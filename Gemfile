@@ -1,5 +1,15 @@
 source 'https://rubygems.org'
 
+gem 'devise'
+
+gem 'bootstrap-sass', '~> 3.3.1'
+gem 'autoprefixer-rails'
+gem 'public_activity'
+
+gem 'json', '~> 1.8.1'
+gem 'slim-rails'
+gem 'term-ansicolor'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
